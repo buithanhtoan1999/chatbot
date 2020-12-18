@@ -12,7 +12,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 //config view engine
 configViewEngine(app);
-
+//config
 //init web routes
 initWebRoutes(app);
 
